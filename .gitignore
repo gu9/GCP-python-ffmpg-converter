@@ -1,0 +1,4 @@
+src/credentials/
+src/vid_sources/
+src/client_secrets.json
+src/venv/
